@@ -13,6 +13,7 @@
 
 
 # MARCO TEORICO
+![](https://github.com/frmayorga/DEBER_5/blob/main/deber%205.jpg)
 
 
 
