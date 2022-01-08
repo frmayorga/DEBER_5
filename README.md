@@ -23,17 +23,29 @@
 # CAP 9
 
 
-**11) 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.**
+**11) Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.**
 
 ![image](https://user-images.githubusercontent.com/93361435/148613208-6b04a370-73f6-4421-9bcd-2739215a8a89.png)
 
+Como vemos en el nodo a la corriente 1 entra al nodo y del nodo salen las corrientes 2 y 3, por lo tanto: 
 
+![image](https://user-images.githubusercontent.com/93361435/148661752-6c532c0a-8788-4189-ab92-82decd88970a.png)
 
 **13) Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.**
 
 ![image](https://user-images.githubusercontent.com/93361435/148613267-1f6c04b5-1df0-49c7-9403-faa96354c340.png)
 
+En primer lugar desarrollamos las ecuaciones necesarias para el calculo, primero la ley de kirchoff ya nombrada en el ejercicio anterior, despues debemos realizar con la ley de voltajes de kirchoff las ecuaciones de cada lazo, en este caso tenemos dos lazos: 
 
+![image](https://user-images.githubusercontent.com/93361435/148661852-c2d6ec39-d6c9-434c-886a-235d980775af.png)
+
+Luego procedemos a dejar las ecuaciones en dos variables con la ley de kirchoff, resolvemos el sistema de ecuaciones lineales y obtenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/148661985-453ff932-14ee-4077-b850-287674ab161f.png)
+
+Calculamos las caidas de voltaje en cada resistor usando la ley de ohm: 
+
+![image](https://user-images.githubusercontent.com/93361435/148662078-03d99f8b-f952-4436-8e7b-83e4c38327bd.png)
 
 **15) En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).**
 
@@ -45,11 +57,23 @@
 
 ![image](https://user-images.githubusercontent.com/93361435/148613336-92285c13-10e8-434d-9f6d-79722a4462e0.png)
 
+Observamos que tenemos dos corrientes de lazo, asignamos sus sentidos de manera horaria: 
+
+![image](https://user-images.githubusercontent.com/93361435/148662195-9a6f55f9-4976-4e7e-b6a9-9f632207c421.png)
+
+Realizamos las ecuaciones con el uso de la ley de voltaje de kirchoff en cada lazo, despues resolvemos las ecuaciones, obteniendo asi: 
+
+![image](https://user-images.githubusercontent.com/93361435/148662296-90a7bf21-fc6a-4460-ba71-b9ce020618ac.png)
+
+Obteniendo el valor de las corrientes de rama.
 
 **19) Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.**
 
 ![image](https://user-images.githubusercontent.com/93361435/148613336-92285c13-10e8-434d-9f6d-79722a4462e0.png)
 
+Utilizando los datos anteriormente obtenidos realizamos el calculo con el uso de la ley de ohm: 
+
+![image](https://user-images.githubusercontent.com/93361435/148662332-d1db6b39-8d4a-4da2-b30d-083dc103d236.png)
 
 
 # CAP 10
