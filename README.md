@@ -22,6 +22,36 @@
 
 # CAP 9
 
+#### 1) Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
+![image](https://user-images.githubusercontent.com/93398718/148671364-fef56dee-a808-45af-b48e-d7fde639d98a.png)  
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/148671758-b83b8b32-80aa-49f7-b1f0-b61ae66e0d22.png)  
+
+#### 3) Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+![image](https://user-images.githubusercontent.com/93398718/148671780-9555288d-4bd1-4fdb-be5f-3aa292f2fa96.png)  
+
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/148672269-0f0d45ce-328c-4c17-80c9-28a76ce04f28.png)  
+
+
+#### 5) Evalúe cada uno de los determinantes:
+![image](https://user-images.githubusercontent.com/93398718/148672337-c2f67923-dc76-4c24-8410-ecc50beffd43.png)  
+- resolucion:    
+- literal a)  
+![image](https://user-images.githubusercontent.com/93398718/148673036-aff21b7e-a07e-40cf-a73c-f9aba6a0f2c0.png)  
+- literal b)    
+![image](https://user-images.githubusercontent.com/93398718/148673275-d1d28600-aa0d-4768-ae02-34c4e4aec052.png)  
+
+#### 7) Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:  
+![image](https://user-images.githubusercontent.com/93398718/148673327-bb4c3d47-9006-4b44-892c-e806223d66e4.png)  
+- resolucion:    
+![image](https://user-images.githubusercontent.com/93398718/148674487-2dea11a6-f847-4770-9c4b-7b0cfe0c249e.png)  
+
+
+#### 9) Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
+- resolucion:  
+![image](https://user-images.githubusercontent.com/93398718/148674667-80164259-8f10-41cc-92a9-148795df906e.png)  
+
 
 **11) Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.**
 
