@@ -158,7 +158,10 @@ Como sabemos la densidad de flujo esta dado por la ley de ohm para circuitos ele
 
 #### 25) Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
 
--resolucion: 
+- resolucion:    
+![image](https://user-images.githubusercontent.com/93398718/148835975-16ac9b4b-2324-4656-aadd-ede296dbbd51.png)
+
+
 
 # VIDEO
 
