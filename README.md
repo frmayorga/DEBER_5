@@ -139,7 +139,26 @@ Se ocasiana por la fuerzas producidas en la interacción del campo electromagné
 
 Como sabemos la densidad de flujo esta dado por la ley de ohm para circuitos electromagnéticos en donde la única característica no fisica es la corriente, por lo tanto se puede cambiar la densidad de flujo aumentando la corriente.
 
+#### 17) Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+![image](https://user-images.githubusercontent.com/93398718/148711210-d6c146fb-0bb2-4c50-97ba-22dd02a64b33.png)  
 
+- resolucion: podemos notar que si hacemos que H=0, la retentividad del material A es la mas alta, tanto que incluso su valor es positivo, es por este motivo que el material A es el que tiene mayor retentividad.
+
+
+#### 19) ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+- La cantidad de voltaje inducido depende de la densidad de flujo, de la longitud del conductor expuesta al campo magnético, y de la velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro.
+
+#### 21) ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+- La ley de Lenz define la polaridad o dirección del voltaje inducido.
+
+#### 23) Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+![image](https://user-images.githubusercontent.com/93398718/148713380-1ce02d1e-fc2d-4dd4-9539-dfb647ef07fa.png)  
+
+- une las aspiras de alambre y conforme la espira de alambre gira en el campo magnético, el anillo conmutador partido también gira, cada una de las mitades del anillo partido frota contra los contactos fijos, llamados escobillas, y conecta la espira de alambre a un circuito externo.
+
+#### 25) Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+-resolucion: 
 
 # VIDEO
 
