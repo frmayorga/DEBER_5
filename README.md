@@ -13,6 +13,9 @@
 
 
 # MARCO TEORICO
+
+![Análisis de Rama, Lazo y Nodos](https://user-images.githubusercontent.com/93561706/148882118-41ed41d0-92b8-4f8a-a4a4-c2e5ac7e97aa.png)
+
 ![](https://github.com/frmayorga/DEBER_5/blob/main/deber%205.jpg)
 
 ![MAGNETISMO Y ELECTROMAGNETISMO II](https://user-images.githubusercontent.com/93361435/148613067-8bf94360-63c9-438b-b9a3-90098b242fd8.jpg)
