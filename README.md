@@ -116,9 +116,27 @@ Utilizando los datos anteriormente obtenidos realizamos el calculo con el uso de
 
 
 # CAP 10
+**1) El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
+![image](https://user-images.githubusercontent.com/93561706/149270004-849d18c9-8b84-4726-ad7e-59d4e9bd7a9d.png)
 
+**3) ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x10^-6 T y el área de sección transversal mide 150 cm^2?
 
+Aplicamos los conocimientos antes aprendidos y la formula correspondiente para obtener el resultado 
+
+![image](https://user-images.githubusercontent.com/93561706/149270031-7bfc1017-4e74-4e78-a6dd-a6c656c9a5b2.png)
+ 
+**5) Un imán permanente muy fuerte tiene un campo magnético de 100,000 µT. Exprese esta densidad de flujo en gauss.
+
+Aplicamos los conocimientos antes aprendidos y la formula correspondiente para obtener el resultado 
+
+![image](https://user-images.githubusercontent.com/93561706/149269961-d81edc6e-d38b-4bed-9eca-2f1747a34e7a.png)
+
+**7) ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^-6 Wb/At·m?
+
+Aplicamos los conocimientos antes aprendidos y la formula correspondiente para obtener el resultado 
+
+![image](https://user-images.githubusercontent.com/93561706/149269975-9e649657-6337-4136-b46e-847451d69447.png)
 
 **9) ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?**
 
