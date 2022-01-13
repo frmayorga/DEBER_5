@@ -8,6 +8,7 @@
 
 ## OBJETIVO GENERAL
 
+- Determinar los tres métodos para la resolución de circuitos eléctricos, además determinar los principios básicos del magnetismo y electromagnétismo con la ayuda del libro principio de circuitos eléctricos de Floyd y con la aplicación de estos conceptos en ejercicios.
 
 ## OBJETIVOS ESPECIFICOS
 
