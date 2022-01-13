@@ -85,6 +85,11 @@ Calculamos las caidas de voltaje en cada resistor usando la ley de ohm:
 
 ![image](https://user-images.githubusercontent.com/93361435/148613301-10b93ad1-7518-44f0-a402-f5504e46542b.png)
 
+Utilizando el método de superposición tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/149253680-1668a3e8-7b31-4c0d-b40f-b190fca64afc.png)
+
+Siendo el voltaje de -1.84 V
 
 
 **17) Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.**
