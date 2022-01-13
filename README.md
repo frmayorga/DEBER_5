@@ -112,8 +112,60 @@ Obteniendo el valor de las corrientes de rama.
 
 Utilizando los datos anteriormente obtenidos realizamos el calculo con el uso de la ley de ohm: 
 
+Se debe de encontrar ecuaciones con las respectivas incognitas en cada lazo para luego resolverlas y hallar su valor:
+
 ![image](https://user-images.githubusercontent.com/93361435/148662332-d1db6b39-8d4a-4da2-b30d-083dc103d236.png)
 
+Se resuelve usando la calculadora digital:
+
+![image](https://user-images.githubusercontent.com/93561706/149270464-b9b9f2ce-edf7-4e07-a2da-0483248c4113.png)
+
+#### 21) Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/93561706/149270415-b78d0906-3fd8-40d2-b6a4-321345795c75.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149270440-5028d02c-d5cf-4390-bfa4-1bb56a4990be.png)
+
+
+#### 23) Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+
+![image](https://user-images.githubusercontent.com/93561706/149270405-16c208e0-cd4a-4c9e-bb12-e4b50361aedd.png)
+
+#### 25) Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+![image](https://user-images.githubusercontent.com/93561706/149270393-5cd384bb-164e-4c1c-a5cd-d20414e98ab5.png)
+
+Debemos halalr las ecuacioes con las incognitas respectivas:
+  
+![image](https://user-images.githubusercontent.com/93561706/149270771-06a461eb-c33d-4356-8877-03741f14df17.png)
+
+Resolvemos para poder saber cunato es el valor de cada incognita:
+
+![image](https://user-images.githubusercontent.com/93561706/149270861-7601f504-2bf2-434a-8d9a-3e559de87304.png)
+
+#### 27) ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
+
+![image](https://user-images.githubusercontent.com/93561706/149270378-e90be3a6-ede0-46fb-83ae-43713ffaec23.png)
+
+Para resolver primero tenemos que determinar cual es la fuente mas grande y de ahi partir diciendo que salen las corrientes y procedemos a los calculos:
+
+![image](https://user-images.githubusercontent.com/93561706/149270892-ee04ad6f-6245-4f6f-ad1c-abe905d78589.png)
+
+#### 29) Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
+
+![image](https://user-images.githubusercontent.com/93561706/149270368-80d3ea9f-8021-425f-984b-95a126c49450.png)
+
+#### 31) Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
+
+![image](https://user-images.githubusercontent.com/93561706/149270359-a9bc1dc3-641c-4021-817e-b1521704943d.png)
+
+Determinamos las corrientescorrespondientes a cada nodo y asi podemos obtener las ecuaciones con las incognitas adecuadas, las resolvemos para hallar su valor y asi poder determinar el valor de las corrientes
+
+![image](https://user-images.githubusercontent.com/93561706/149271045-754ef180-a2de-4afb-8ba7-1a052d1a510e.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149271108-383d2b31-ac01-41e9-b417-746d15052e42.png)
+
+![image](https://user-images.githubusercontent.com/93561706/149271097-bca49526-e968-4fa9-b1f8-fa813b07b0a6.png)
 
 # CAP 10
 **1) El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
