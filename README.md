@@ -247,7 +247,7 @@ Como sabemos la densidad de flujo esta dado por la ley de ohm para circuitos ele
 
 # VIDEO
 
-
+https://youtu.be/nWI_Hx5z6U4
 
 # CONCLUSIONES 
 
