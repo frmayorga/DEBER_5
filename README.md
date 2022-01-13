@@ -135,11 +135,11 @@ Se resuelve usando la calculadora digital:
 
 ![image](https://user-images.githubusercontent.com/93561706/149270393-5cd384bb-164e-4c1c-a5cd-d20414e98ab5.png)
 
-Debemos halalr las ecuacioes con las incognitas respectivas:
+Debemos hallar las ecuacioes con las incognitas respectivas:
   
 ![image](https://user-images.githubusercontent.com/93561706/149270771-06a461eb-c33d-4356-8877-03741f14df17.png)
 
-Resolvemos para poder saber cunato es el valor de cada incognita:
+Resolvemos para poder saber cuanto es el valor de cada incognita:
 
 ![image](https://user-images.githubusercontent.com/93561706/149270861-7601f504-2bf2-434a-8d9a-3e559de87304.png)
 
@@ -159,7 +159,7 @@ Para resolver primero tenemos que determinar cual es la fuente mas grande y de a
 
 ![image](https://user-images.githubusercontent.com/93561706/149270359-a9bc1dc3-641c-4021-817e-b1521704943d.png)
 
-Determinamos las corrientescorrespondientes a cada nodo y asi podemos obtener las ecuaciones con las incognitas adecuadas, las resolvemos para hallar su valor y asi poder determinar el valor de las corrientes
+Determinamos las corrientes correspondientes a cada nodo y asi podemos obtener las ecuaciones con las incognitas adecuadas, las resolvemos para hallar su valor y asi poder determinar el valor de las corrientes
 
 ![image](https://user-images.githubusercontent.com/93561706/149271045-754ef180-a2de-4afb-8ba7-1a052d1a510e.png)
 
