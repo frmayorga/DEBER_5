@@ -12,6 +12,9 @@
 
 ## OBJETIVOS ESPECIFICOS
 
+- calcular corrientes y recistencias haciendo uso de los tres metodos indicados en el texto.
+
+- analizar los princios basicos del magnetismo y el electromagnetismo y sus aplicasiones.
 
 # MARCO TEORICO
 
@@ -247,6 +250,9 @@ Como sabemos la densidad de flujo esta dado por la ley de ohm para circuitos ele
 
 
 # CONCLUSIONES 
+
+- gracias al estudio realizado en esta actividad se conoce que existe mas de una manera de calcular corrientes y recistencias, de esta manera es posible de ahora en adelante que podamos escojer el metodo que mejor entendamos de entre todos estos metodos para la resolucion de ejrcicios. 
+- al estudiar los temas de magnetismo y electromagnetismo se comprendio la importancia de estos, pues en el caso del magnetismo se vieron propiedades tam importantes que sin el entendimiento de estas no podriamos tener la tecnologia de la cual disfrutamos a diario.
 
 
 # BIBLIOGRAFÍA
